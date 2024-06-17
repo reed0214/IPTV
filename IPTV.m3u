@@ -696,7 +696,7 @@ http://live.cooltv.top/tv/tvb.php?id=2&hq
 #EXTINF:-1 tvg-id="xg05" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoshi1.png" tvg-name="澳门澳视"  group-title="港澳台",澳门澳视"
 https://iptv.hiper25.com/TDM/video.m3u8
 #EXTINF:-1 tvg-id="xg06" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" tvg-name="中天新闻"  group-title="港澳台",中天新闻"
-http://66.165.240.154:8080/live/ztylt01/hls.m3u8
+https://histar.zapi.us.kg/?id=cti-news
 #EXTINF:-1 tvg-id="xg07" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTS.png" tvg-name="华视"  group-title="港澳台",华视"
 http://66.165.240.154:8080/live/tytvbs10/hls.m3u8
 #EXTINF:-1 tvg-id="xg08" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV.png" tvg-name="中视"  group-title="港澳台",中视"
