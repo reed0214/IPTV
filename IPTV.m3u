@@ -701,27 +701,29 @@ https://histar.zapi.us.kg/?id=cti-news
 https://histar.zapi.us.kg/?id=ctitv36
 #EXTINF:-1 tvg-id="xg08" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI4.png" tvg-name="中天亚洲"  group-title="港澳台",中天亚洲
 https://histar.zapi.us.kg/?id=cti-asia
-#EXTINF:-1 tvg-id="xg09" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS.png" tvg-name="TVBS"  group-title="港澳台",TVBS
+#EXTINF:-1 tvg-id="xg09" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI3.pngg" tvg-name="中天娱乐"  group-title="港澳台",中天娱乐
+https://histar.zapi.us.kg/?id=cti-yule
+#EXTINF:-1 tvg-id="xg10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS.png" tvg-name="TVBS"  group-title="港澳台",TVBS
 https://histar.zapi.us.kg/?id=tvbs-hd
-#EXTINF:-1 tvg-id="xg10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET2.png" tvg-name="三立新闻" group-title="港澳台",三立新闻
+#EXTINF:-1 tvg-id="xg11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET2.png" tvg-name="三立新闻" group-title="港澳台",三立新闻
 http://194.87.101.118/live.m3u8?c=12
-#EXTINF:-1 tvg-id="xg11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV2.png" tvg-name="台视新闻" group-title="港澳台",台视新闻
+#EXTINF:-1 tvg-id="xg12" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV2.png" tvg-name="台视新闻" group-title="港澳台",台视新闻
 http://66.165.240.154:8080/live/tyxltsxw3/hls.m3u8
-#EXTINF:-1 tvg-id="xg12" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC6.png" tvg-name="东森新闻" group-title="港澳台",东森新闻
+#EXTINF:-1 tvg-id="xg13" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC6.png" tvg-name="东森新闻" group-title="港澳台",东森新闻
 https://histar.zapi.us.kg/?id=ebc-news
-#EXTINF:-1 tvg-id="xg13" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC2.png" tvg-name="东森超视" group-title="港澳台",东森超视
+#EXTINF:-1 tvg-id="xg14" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC2.png" tvg-name="东森超视" group-title="港澳台",东森超视
 https://histar.zapi.us.kg/?id=ebc-super
-#EXTINF:-1 tvg-id="xg14" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC1.png" tvg-name="东森综合" group-title="港澳台",东森综合
+#EXTINF:-1 tvg-id="xg15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC1.png" tvg-name="东森综合" group-title="港澳台",东森综合
 https://histar.zapi.us.kg/?id=ebc-ettv
-#EXTINF:-1 tvg-id="xg15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Global2.png" tvg-name="寰宇新闻" group-title="港澳台",寰宇新闻
+#EXTINF:-1 tvg-id="xg16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Global2.png" tvg-name="寰宇新闻" group-title="港澳台",寰宇新闻
 https://histar.zapi.us.kg/?id=global-news
-#EXTINF:-1 tvg-id="xg16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA1.png" tvg-name="爱尔达综合" group-title="港澳台",爱尔达综合
+#EXTINF:-1 tvg-id="xg17" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA1.png" tvg-name="爱尔达综合" group-title="港澳台",爱尔达综合
 https://histar.zapi.us.kg/?id=elta-zonghe
-#EXTINF:-1 tvg-id="xg17" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" tvg-name="爱尔达体育1" group-title="港澳台",爱尔达体育1
+#EXTINF:-1 tvg-id="xg18" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" tvg-name="爱尔达体育1" group-title="港澳台",爱尔达体育1
 https://histar.zapi.us.kg/?id=elta-sport1
-#EXTINF:-1 tvg-id="xg18" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5.png" tvg-name="爱尔达体育2" group-title="港澳台",爱尔达体育2
+#EXTINF:-1 tvg-id="xg19" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5.png" tvg-name="爱尔达体育2" group-title="港澳台",爱尔达体育2
 https://histar.zapi.us.kg/?id=elta-sport2
-#EXTINF:-1 tvg-id="xg19" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png" tvg-name="爱尔达体育3" group-title="港澳台",爱尔达体育3
+#EXTINF:-1 tvg-id="xg20" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png" tvg-name="爱尔达体育3" group-title="港澳台",爱尔达体育3
 https://histar.zapi.us.kg/?id=elta-sport3
 
 
