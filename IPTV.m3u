@@ -696,17 +696,17 @@ http://live.cooltv.top/tv/tvb.php?id=2&hq
 #EXTINF:-1 tvg-id="xg05" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoshi1.png" tvg-name="澳门澳视"  group-title="港澳台",澳门澳视
 https://iptv.hiper25.com/TDM/video.m3u8
 #EXTINF:-1 tvg-id="xg06" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" tvg-name="中天新闻"  group-title="港澳台",中天新闻
-http://194.87.101.118/live.m3u8?c=7
+http://extraott.com:80/live/7921751389/6097373662/5553.m3u8
 #EXTINF:-1 tvg-id="xg07" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI1.png" tvg-name="中天综合"  group-title="港澳台",中天综合
 https://histar.zapi.us.kg/?id=ctitv36
 #EXTINF:-1 tvg-id="xg08" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI4.png" tvg-name="中天亚洲"  group-title="港澳台",中天亚洲
-https://histar.zapi.us.kg/?id=cti-asia
+http://extraott.com:80/live/7921751389/6097373662/5555.m3u8
 #EXTINF:-1 tvg-id="xg09" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI3.pngg" tvg-name="中天娱乐"  group-title="港澳台",中天娱乐
 https://histar.zapi.us.kg/?id=cti-yule
 #EXTINF:-1 tvg-id="xg10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS.png" tvg-name="TVBS"  group-title="港澳台",TVBS
-https://histar.zapi.us.kg/?id=tvbs-hd
+http://extraott.com:80/live/7921751389/6097373662/5496.m3u8
 #EXTINF:-1 tvg-id="xg11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET2.png" tvg-name="三立新闻" group-title="港澳台",三立新闻
-http://194.87.101.118/live.m3u8?c=12
+http://extraott.com:80/live/7921751389/6097373662/5503.m3u8
 #EXTINF:-1 tvg-id="xg12" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV2.png" tvg-name="台视新闻" group-title="港澳台",台视新闻
 http://66.165.240.154:8080/live/tyxltsxw3/hls.m3u8
 #EXTINF:-1 tvg-id="xg13" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC6.png" tvg-name="东森新闻" group-title="港澳台",东森新闻
