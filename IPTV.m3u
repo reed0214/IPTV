@@ -609,34 +609,34 @@ https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4c
 
 #北京/10个频道
 #EXTINF:-1 tvg-id="BJ01" tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing1.png" group-title="地方特色",北京新闻
-http://avd.iptviptv.site:9694/hls/811/index.m3u8
+
 #EXTINF:-1 tvg-id="BJ02" tvg-name="北京影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing4.png" group-title="地方特色",北京影视
-http://avd.iptviptv.site:9694/hls/808/index.m3u8
+
 #EXTINF:-1 tvg-id="BJ03" tvg-name="北京文艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing3.png" group-title="地方特色",北京文艺
-http://avd.iptviptv.site:9694/hls/806/index.m3u8
+
 #EXTINF:-1 tvg-id="BJ04" tvg-name="北京生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing7.png" group-title="地方特色",北京生活
-http://avd.iptviptv.site:9694/hls/809/index.m3u8
+
 #EXTINF:-1 tvg-id="BJ05" tvg-name="北京科教" tvg-logo="https://upload.112114.xyz/logo/%E5%8C%97%E4%BA%AC%E5%9B%BD%E9%99%85.png" group-title="地方特色",北京科教
-http://avd.iptviptv.site:9694/hls/807/index.m3u8
+
 #EXTINF:-1 tvg-id="BJ06" tvg-name="北京少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png" group-title="地方特色",北京少儿
-http://avd.iptviptv.site:9694/hls/812/index.m3u8
+
 #EXTINF:-1 tvg-id="BJ07" tvg-name="北京财经" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing2.png" group-title="地方特色",北京财经
-http://avd.iptviptv.site:9694/hls/810/index.m3u8
+
 #EXTINF:-1,tvg-id="BJ09" tvg-name="BTV体育休闲" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/北京体育休闲.png" group-title="地方特色",北京体育休闲
-http://avd.iptviptv.site:9694/hls/800/index.m3u8
+
 #江苏/14个频道
 #EXTINF:-1 tvg-id="JS01" tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu2.png" group-title="地方特色",江苏城市
-http://avd.iptviptv.site:9694/hls/601/index.m3u8
+http://222.95.183.93:4022/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="JS02" tvg-name="江苏综艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu3.png" group-title="地方特色",江苏综艺
-http://avd.iptviptv.site:9694/hls/604/index.m3u8
+http://222.95.183.93:4022/rtp/239.49.8.108:8000
 #EXTINF:-1 tvg-id="JS03" tvg-name="江苏影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu4.png" group-title="地方特色",江苏影视
-http://avd.iptviptv.site:9694/hls/602/index.m3u8
+http://222.95.183.93:4022/rtp/239.49.8.118:8000
 #EXTINF:-1 tvg-id="JS04" tvg-name="江苏教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu7.png" group-title="地方特色",江苏教育
-http://avd.iptviptv.site:9694/hls/603/index.m3u8
+http://222.95.183.93:4022/rtp/239.49.8.122:8000
 #EXTINF:-1 tvg-id="JS05" tvg-name="江苏体育休闲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu5.png" group-title="地方特色",江苏体育休闲
-http://avd.iptviptv.site:9694/hls/600/index.m3u8
+http://222.95.183.93:4022/rtp/239.49.8.117:8000
 #EXTINF:-1 tvg-id="JS07" tvg-name="江苏新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu1.png" group-title="地方特色",江苏新闻
-http://avd.iptviptv.site:9694/hls/605/index.m3u8
+http://222.95.183.93:4022/rtp/239.49.8.120:8000
 #EXTINF:-1 tvg-id="JS09" tvg-name="苏州4K" tvg-logo="https://live.fanmingming.com/tv/苏州4K.png" group-title="地方特色",苏州4K
 http://liveshowbak2.kan0512.com/ksznorecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="JS10" tvg-name="苏州新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="地方特色",苏州新闻综合
