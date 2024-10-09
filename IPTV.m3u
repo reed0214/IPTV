@@ -162,19 +162,19 @@ http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 http://aff7da.netsite.cc/proxy/1400186150/1400186150.m3u8
 
 #数字高清/44个频道
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.kakaxi-1.ink/LOGO/CHC动作电影.png" group-title="数字经典",CHC动作电影
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.kakaxi-1.ink/LOGO/CHC动作电影.png" group-title="数字高清",CHC动作电影
 http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012%24%E5%B1%B1%E8%A5%BFuni2+
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.kakaxi-1.ink/LOGO/CHC家庭影院.png" group-title="数字经典",CHC家庭影院
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.kakaxi-1.ink/LOGO/CHC家庭影院.png" group-title="数字高清",CHC家庭影院
 http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820%24%E5%B1%B1%E8%A5%BFuni2+
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://live.kakaxi-1.ink/LOGO/CHC影迷电影.png" group-title="数字经典",CHC影迷电影
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://live.kakaxi-1.ink/LOGO/CHC影迷电影.png" group-title="数字高清",CHC影迷电影
 http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8%A5%BFuni2+
-#EXTINF:-1 tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://live.kakaxi-1.ink/LOGO/求索记录.png" group-title="数字经典",求索记录
+#EXTINF:-1 tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://live.kakaxi-1.ink/LOGO/求索记录.png" group-title="数字高清",求索记录
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://live.kakaxi-1.ink/LOGO/求索动物.png" group-title="数字经典",求索动物
+#EXTINF:-1 tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://live.kakaxi-1.ink/LOGO/求索动物.png" group-title="数字高清",求索动物
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://live.kakaxi-1.ink/LOGO/求索科学.png" group-title="数字经典",求索科学
+#EXTINF:-1 tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://live.kakaxi-1.ink/LOGO/求索科学.png" group-title="数字高清",求索科学
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://live.kakaxi-1.ink/LOGO/求索生活.png" group-title="数字经典",求索生活
+#EXTINF:-1 tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://live.kakaxi-1.ink/LOGO/求索生活.png" group-title="数字高清",求索生活
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="hmdy" tvg-name="黑莓电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hmdy.png" group-title="数字高清",黑莓电影
 http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
